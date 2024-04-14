@@ -4,7 +4,7 @@
     "description": "Interactive video gallery",
     "main": "app.js",
     "scripts": {
-      "start": "node app.js"
+      "start": "homepage.js"
     },
     "dependencies": {
       "express": "^4.17.1"
