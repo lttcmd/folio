@@ -2,9 +2,9 @@
     "name": "video-gallery",
     "version": "1.0.0",
     "description": "Interactive video gallery",
-    "main": "homepage.js",
+    "main": "app.js",
     "scripts": {
-      "start": "homepage.js"
+      "start": "app.js"
     },
     "dependencies": {
       "express": "^4.17.1"
